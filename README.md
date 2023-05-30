@@ -1,5 +1,4 @@
 # praktikum4
-# Paktikum4_SQL_Query_Filter
 
 
 
